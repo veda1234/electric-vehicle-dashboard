@@ -1,6 +1,9 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9295136&assignment_repo_type=AssignmentRepo)
 # Electric Vehicle Analysis Dashboard
 
+![dashboard](https://github.com/veda1234/electric-vehicle-dashboard/assets/23010614/38cd0522-ddbd-4c2f-865a-813f28d1f0ae)
+
+
 This project was done as a part of the DSCI 554 : Data Visualisation course
 
 Team name: Data Wizards
